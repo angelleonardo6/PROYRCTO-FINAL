@@ -1,0 +1,56 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css');
+
+*{
+    margin: auto;
+    text-align:center;
+
+}
+
+body{
+   background-image:url(/img/blanco.png);
+   background-size: 100%;
+   
+}
+
+h1{
+    
+    font-size: 70px;
+    margin-top: 20px;
+}
+
+.enlace{
+    padding: 15px;
+    margin: 5px;
+    text-decoration: none;
+    background-color:rgb(232, 232, 232);
+     color: rgb(0, 0, 0);
+    font-size: 30px;
+    border-radius: 30px;
+    transition: 0,5s; 
+
+}
+
+.enlace:hover{
+    
+    color: grey;
+
+}
+
+#perfil{
+    border-radius: 15px;
+
+}
+
+.contenido{
+   
+    width: 50%;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+ 
+
+
+   
